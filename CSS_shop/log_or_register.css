@@ -1,0 +1,50 @@
+.container{
+    border: 2px solid #192b59;
+    width: 50%;
+    margin: auto;
+    background-color: #ffffff;
+    padding-top: 15px;
+}
+.log_to_see_data{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 26px;
+    color: #192b59;
+    padding: 5px;
+    text-align: center;
+}
+.data_input{
+    display: block;    
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 26px;
+    margin: auto;
+    padding: 5px;
+    margin-bottom: 10px;
+    width: 90%;
+    border: 2px solid #192b59;
+}
+.data_input_wrong{
+    display: block;    
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 26px;
+    margin: auto;
+    padding: 5px;
+    margin-bottom: 10px;
+    width: 90%;
+    border: 2px solid #192b59;
+    background-color: #ff8181;
+}
+.data_btn{
+    display: block;
+    color: #192b59;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    margin: auto;
+    border: 2px solid #192b59;
+}
+.swich_log_reg{
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    text-align: center;
+}

@@ -1,0 +1,25 @@
+.order{
+    border: 1px solid #192b59;
+    background-color: #ffffff;
+    width: 60%;
+    margin: auto;
+    padding: 20px;
+}
+.order_info{
+    border: 1px solid #192b59;
+    display: block;
+    width: 95%;
+    margin: auto;
+    height: 5vh;
+    color: #192b59;
+    font-size: 20px;
+    margin-bottom: 20px;
+    padding-left: 10px;
+}
+.order_info_btn{
+    display: block;
+    border: 1px solid #192b59;
+    margin: auto;
+    font-size: 20px;
+    color: #192b59;
+}

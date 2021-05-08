@@ -1,0 +1,97 @@
+.container{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    height: 600px;
+    margin-bottom: 30px;
+    text-align: center;
+    overflow: hidden;
+    border-top: 5px solid #192b59;
+    border-bottom: 5px solid #192b59;
+    border-left: #ffffff;
+    border-right: #ffffff;
+    background-color: #7183a9;
+}
+.links{
+    flex-grow: 1;
+    width: 100px;
+    height: 600px;
+    background-color: #ffffff;
+    overflow: hidden;
+    box-sizing: border-box;
+    transition: width 0.15s linear;
+    cursor: default;
+}
+/* image style */
+.image{
+    display: block;
+    margin-top: 25px;
+    margin-left: 15%;
+    max-width: 100px;
+    height: 100px;
+    overflow: hidden;
+    border-top: 1.5px solid #192b59;
+    border-bottom: 2px solid #192b59;
+    border-left: #ffffff;
+    border-right: #ffffff;
+}
+.image_hovered{
+    /* display: block;
+    margin-left: 5%;
+    overflow: hidden;
+    border-top: 1.5px solid #192b59;
+    border-bottom: 2px solid #192b59;
+    border-left: #ffffff;
+    border-right: #ffffff; */
+    display: none;
+}
+/* description style */
+.description{
+    margin-top: 30px;
+    margin-left: 2.5%;
+    width: 95%;
+    height: 0px;
+    overflow: hidden;
+    border-top: 1.5px solid #192b59;
+    border-bottom: 2px solid #192b59;
+    border-left: #ffffff;
+    border-right: #ffffff;
+    opacity: 0;
+    background-color: #ffffff;
+}
+.description_show{
+    opacity: 1;
+    height: 500px;
+    transition: height 0.2s linear;  
+}
+
+/* Left and right on the div */
+.left_border{
+    border-width: 2px;
+    border-style: solid;
+    border-image:linear-gradient(
+        to bottom,
+        #192b59, 
+        #ffffff 
+      ) 1 100%;
+    border-right: 2px solid white;
+}
+.right_border{
+    border-width: 2px;
+    border-style: solid;
+    border-image:linear-gradient(
+        to bottom,
+        #192b59, 
+        #ffffff 
+      ) 1 100%;
+    border-left: 0px solid white;
+}
+
+/* Hovered style  */
+.hovered{
+    width: 45%;
+    /* background-repeat: no-repeat; */
+    background-color: #c4cbda; 
+    /* background-image: url("../Images/keyboard_bg.jpg"); */
+    /* background-image: url('../Images/peripheries1.jpg') */
+}

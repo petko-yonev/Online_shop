@@ -1,0 +1,108 @@
+.form_select_data{
+    border: 3px solid #192b59;
+    color:  #192b59;
+    padding: 5px;
+    width: 50%;
+    margin: auto;
+    background-color: #ffffff;
+    text-align: center;
+}
+.select_data{
+    padding: 5px;
+    margin: 10px;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    background-color: #ffffff;
+    border: 1px solid #ffffff;
+    color:  #192b59;
+}
+.select_data:hover{
+    padding: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    background-color: #ffffff;
+    border: 1px solid #ffffff;
+    color:  #192b59;
+    border-bottom: 1px solid #192b59;
+}
+.currend_data{
+    border: 3px solid #192b59;
+    border-top: 0px;
+    padding: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    width: 50%;
+    margin: auto;
+    background-color: #ffffff;
+    text-align: center;
+    color:  #192b59;
+}
+.wrong_pass{
+    display: block;
+    border: 3px solid #192b59;
+    border-top: 0px;
+    background-color: #ff8181;
+    color:  #192b59;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    padding: 5px;
+    padding-top: 15px;
+    width: 50%;
+    margin: auto;
+    margin-bottom: 10px;
+    text-align: center;
+}
+.change_successful{
+    display: block;
+    border: 3px solid #192b59;
+    border-top: 0px;
+    background-color: #90ff81;
+    color:  #192b59;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    padding: 5px;
+    padding-top: 15px;
+    width: 50%;
+    margin: auto;
+    margin-bottom: 10px;
+    text-align: center;
+}
+.form_new_data{
+    border: 3px solid #192b59;
+    border-top: 0px;
+    color:  #192b59;
+    padding: 5px;
+    padding-top: 10px;
+    width: 50%;
+    margin: auto;
+    background-color: #ffffff;
+    text-align: center;
+}
+.new_data{
+    display: block;
+    border: 3px solid #192b59;
+    color:  #192b59;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    padding: 5px;
+    padding-top: 10px;
+    width: 50%;
+    margin: auto;
+    background-color: #ffffff;
+    margin-bottom: 10px;
+}
+.new_data_btn{
+    display: block;
+    border: 3px solid #192b59;
+    color:  #192b59;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    padding: 5px;
+    padding-top: 10px;
+    width: 20%;
+    margin: auto;
+    background-color: #ffffff;
+    margin-bottom: 10px;
+}
