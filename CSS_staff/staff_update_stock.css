@@ -1,0 +1,108 @@
+.load_stock_form{
+    width: 40%;
+    text-align: center;
+    background-color: #ffffff;
+    border: 2px solid #192b59;
+    margin: auto;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: #192b59;
+}
+.stock_selection{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color: #192b59;
+    border: 2px solid #192b59;
+}
+.load_stock_form_btn{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color: #192b59;
+    border: 2px solid #192b59;
+}
+.stock_lable{
+    width: 40%;
+    text-align: center;
+    background-color: #ffffff;
+    border: 2px solid #192b59;
+    margin: auto;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: #192b59;
+    margin-top: 10px;
+}
+.form_stock_chars{
+    width: fit-content;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 100px;
+    border: 5px solid #192b59;
+    text-align: center;
+}
+.input_stock_char{
+    display: block;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    border: 2px solid #192b59;
+    color: #192b59;
+    padding: 5px;
+    margin: auto;
+    margin-top: 10px;
+    width: 350px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.update_stock_in_shop_btn{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    border: 2px solid #192b59;
+    color: #192b59;
+    display: block;
+    margin: auto;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.existing_chars{
+    display: block;
+    margin: auto;
+    width: fit-content;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 70px;
+    border-bottom: 0px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.char_container{
+    border: 1px solid #192b59;
+    border-right: 0px;
+    display: inline;
+    padding: 5px;
+    font-size: 20px;
+    background-color: #ffffff;
+    color: #192b59;
+}
+.char_label{
+    color: #0e1d41;
+    font-size: 16px;
+    margin-bottom: 5px;
+    padding: 3px;
+}
+.right_border{
+    border-left: 1px solid #192b59;
+    display: inline;
+    padding-top:7px;
+    padding-bottom: 7px;
+    font-size: 20px;
+    color: #192b59;
+}
+.char_split{
+    height: 5px;
+    background-color: #192b59;
+}
+.char_split_first{
+    height: 5px;
+    background-color: #192b59;
+    margin-top: 10px;
+}

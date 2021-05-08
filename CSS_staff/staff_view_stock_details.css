@@ -1,0 +1,66 @@
+/* Show stock on big screen after click */
+
+.view_stock_container{
+    margin: auto;
+    width: 70%;
+    height: 60vh;
+    margin-top: 10vh;
+    background-color: #ffffff;
+    opacity: 1;
+    color: #192b59;
+    border: 2px solid #192b59;
+    overflow: scroll;
+}
+h2{
+    padding-left: 10px;
+    padding-bottom: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    background:
+    linear-gradient(
+      to right, 
+      #192b59,
+      #ffffff
+    )
+    left 
+    bottom
+    #ffffff    
+    no-repeat; 
+  background-size:100% 2px ;
+}
+.view_mode_stock_pic{
+    border: 2px solid #192b59;
+    width: 35%;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.stock_info{
+    display: inline-block;
+    border: 2px solid #ffffff;
+    width: 55%;
+    vertical-align: top;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.info_line_a{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    padding: 3px; 
+    background-color: #ffffff; 
+}
+.info_line_b{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    padding: 5px;  
+    background-color: #c9d0df;
+}
+.info_line_c{
+    border-top: 2px solid #192b59;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    padding: 15px;  
+    background-color: #ffffff;
+}
+.lables{
+    width: 40%;
+    display: inline-block;
+}
